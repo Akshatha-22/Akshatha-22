@@ -11,20 +11,23 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-# `akshatha.dungi` 🛸
+<!-- ================= HEADER ================= -->
 
-**`software engineer` · `ai/ml` · `building things that explain themselves`**
+<h1 align="center">Akshatha Dungi</h1>
+<h3 align="center">Software Engineer | AI/ML Systems Engineer</h3>
 
-<h1 align="center">🚀 Akshatha Dungi</h1>
-<h3 align="center">Software Engineer | AI/ML Engineer | Building Intelligent Systems</h3>
+<p align="center">git 
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Reliable+AI+Systems;From+Research+to+Production;Scalable+Backend+%7C+ML+%7C+DSA&center=true&width=520&height=40">
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+AI+that+actually+works;Neural+Networks+%7C+MLOps+%7C+Full+Stack;Systems+over+syntax&center=true&width=520&height=45">
+  <a href="#projects">Projects</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#systems">Systems</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
-
-## 🌠
 
 <p align="center">
   <img src="./assets/explosion.jpg" width="100%" />
@@ -32,32 +35,119 @@
 
 ---
 
-## 🧠 About Me
+## About
 
-- 🎓 CSE @ Andhra University (CGPA: 8.96) :contentReference[oaicite:0]{index=0}  
-- 🔬 Research Intern @ ISI Kolkata (IDEAS Foundation) :contentReference[oaicite:1]{index=1}  
-- ⚡ Built ANN models with **97% accuracy** :contentReference[oaicite:2]{index=2}  
-- 🧠 Focus: **Neural Networks, Calibration, Time Series**
-- ⚙️ Strong in **Backend + AI integration**
-- 🌌 I build systems that *don’t just predict — they explain*
+- Computer Science @ Andhra University (CGPA: 8.96)  
+- Research Intern @ ISI Kolkata  
+- Built ANN systems achieving **97% classification accuracy (+15% improvement)**  
+- Designed ML pipelines processing **160K+ records**  
+- Specialized in **model reliability, calibration, and time-series systems**
+
+> Focus: building systems that are **correct, scalable, and reliable under real-world conditions**
 
 ---
 
-## 🌌 System Thinking
+<a name="systems"></a>
+
+## Systems Perspective
 
 <p align="center">
   <img src="./assets/galaxy-network.jpg" width="85%" />
 </p>
 
-> Complex systems aren’t chaotic — they’re just not understood yet.
+- ML is not just modeling — it is **system design under uncertainty**
+- Accuracy is insufficient without **calibration and reliability**
+- Production systems require **data pipelines, monitoring, and failure analysis**
 
 ---
 
-## 🚀 Tech Stack
+<a name="tech-stack"></a>
 
-```bash
-Languages      → Python | Java | JavaScript | SQL
-AI/ML          → TensorFlow | PyTorch | Scikit-learn | RNN | LSTM
-Backend        → Flask | Spring Boot | REST APIs
-Frontend       → React | Responsive Design
-DevOps/Cloud   → Docker | CI/CD | GitHub Actions | Azure
+## Tech Stack
+
+### Core
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,sql" />
+</p>
+
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,spring" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,azure,git" />
+</p>
+
+---
+
+<a name="projects"></a>
+
+## Selected Projects
+
+### AI Confidence Calibration System
+
+- Evaluated **5 neural architectures** on financial time-series  
+- Built unified pipeline handling **160K+ records**  
+- Achieved **3.34% Expected Calibration Error (ECE)**  
+- Identified **predictable failure dynamics in RNN vs LSTM**
+
+**Impact**
+- Moves beyond accuracy → ensures **trustworthy AI predictions**
+- Bridges research insights with deployable systems
+
+---
+
+### ML Pipeline Engineering System
+
+- Designed **reproducible ML pipelines**
+- Implemented evaluation + visualization layers
+- Focused on **production-readiness and maintainability**
+
+---
+
+### End-to-End Classification System
+
+- Built full pipeline: ingestion → preprocessing → modeling → evaluation  
+- Emphasized interpretability and structured workflows  
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshatha-22&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshatha-22&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+---
+
+<a name="contact"></a>
+
+## Contact
+
+<p align="center">
+  <a href="mailto:akshathadungi04@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/akshathadungi2212">LinkedIn</a> •
+  <a href="https://github.com/Akshatha-22">GitHub</a>
+</p>
+
+---
+
+## Philosophy
+
+Reliability > Accuracy  
+Systems > Models  
+Execution > Ideas
