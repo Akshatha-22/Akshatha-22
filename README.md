@@ -16,7 +16,7 @@
 <h1 align="center">Akshatha Dungi</h1>
 <h3 align="center">Software Engineer | AI/ML Systems Engineer</h3>
 
-<p align="center">git 
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+Reliable+AI+Systems;From+Research+to+Production;Scalable+Backend+%7C+ML+%7C+DSA&center=true&width=520&height=40">
 </p>
 
