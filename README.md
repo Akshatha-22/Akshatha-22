@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/explosion.jpg" width="100%" />
+  <img src="./assets/Plano de fundo doge.jpg" width="100%" />
 </p>
 
 ---
@@ -50,10 +50,6 @@
 <a name="systems"></a>
 
 ## Systems Perspective
-
-<p align="center">
-  <img src="./assets/galaxy-network.jpg" width="85%" />
-</p>
 
 - ML is not just modeling — it is **system design under uncertainty**
 - Accuracy is insufficient without **calibration and reliability**
