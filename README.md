@@ -51,9 +51,10 @@
 
 ## Systems Perspective
 
-- ML is not just modeling — it is **system design under uncertainty**
-- Accuracy is insufficient without **calibration and reliability**
-- Production systems require **data pipelines, monitoring, and failure analysis**
+Status        : Learning
+Current Task  : Building AI systems
+Runtime       : Coffee dependent
+Failure Mode  : Overengineering side projects
 
 ---
 
