@@ -37,11 +37,10 @@
 
 ## About
 
-- Computer Science @ Andhra University (CGPA: 8.96)  
-- Research Intern @ ISI Kolkata  
-- Built ANN systems achieving **97% classification accuracy (+15% improvement)**  
-- Designed ML pipelines processing **160K+ records**  
-- Specialized in **model reliability, calibration, and time-series systems**
+- Computer Science @ Andhra University (CGPA: 8.96)
+- Academic Excellence Award Recipient
+- Experience- Research Intern @ ISI Kolkata  
+
 
 > Focus: building systems that are **correct, scalable, and reliable under real-world conditions**
 
@@ -51,10 +50,10 @@
 
 ## Systems Perspective
 
-Status        : Learning
-Current Task  : Building AI systems
-Runtime       : Coffee dependent
-Failure Mode  : Overengineering side projects
+- Status        : Learning
+- Current Task  : Building AI systems
+- Runtime       : Coffee dependent
+- Failure Mode  : Overengineering side projects
 
 ---
 
