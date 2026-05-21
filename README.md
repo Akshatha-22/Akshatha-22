@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/Plano de fundo doge.jpg" width="100%" />
+  <img src="./assets/download.gif" width="100%" />
 </p>
 
 ---
