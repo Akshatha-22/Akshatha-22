@@ -37,7 +37,7 @@
 
 ## About
 
-- Computer Science @ Andhra University (CGPA: 8.96)
+- Computer Science @ Andhra University (CGPA: 9.07)
 - Academic Excellence Award Recipient
 - Experience- Research Intern @ ISI Kolkata  
 
