@@ -106,19 +106,6 @@
 
 ---
 
-### ML Pipeline Engineering System
-
-- Designed **reproducible ML pipelines**
-- Implemented evaluation + visualization layers
-- Focused on **production-readiness and maintainability**
-
----
-
-### End-to-End Classification System
-
-- Built full pipeline: ingestion → preprocessing → modeling → evaluation  
-- Emphasized interpretability and structured workflows  
-
 ---
 
 ## GitHub Analytics
