@@ -1,136 +1,92 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- if you're reading my source code... hi bestie 👾         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+# [Akshatha Dungi](https://akshatha-22.github.io/My-Portfolio/)
 
-<div align="center">
-
-```
-⠀⠀⠀⠀✦⠀⠀⠀⠀⠀⠀✧⠀⠀⠀⠀★⠀⠀⠀⠀⠀⠀★⠀⠀⠀⠀⠀✧         ⠀✦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✧⠀⠀⠀⠀⠀✦⠀⠀✦⠀⠀✦⠀⠀⠀⠀⠀⠀✧⠀⠀⠀⠀★⠀⠀⠀⠀⠀⠀★⠀⠀⠀⠀⠀✧  
-⠀⠀⠀⠀⠀⠀★⠀⠀⠀⠀⠀★⠀⠀⠀⠀⠀✧⠀⠀⠀⠀★⠀⠀⠀✦⠀⠀⠀⠀⠀⠀✧⠀⠀⠀✦⠀★⠀ ⠀✦⠀⠀✦
-⠀⠀⠀✧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀★⠀⠀⠀⠀⠀⠀⠀✦⠀★⠀ ⠀✦⠀⠀✦⠀⠀⠀⠀⠀⠀✧⠀⠀⠀⠀✦⠀⠀✦⠀⠀⠀⠀⠀⠀✧⠀⠀⠀⠀★⠀⠀⠀⠀⠀⠀★⠀⠀⠀⠀⠀✧  
-⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✧⠀⠀⠀⠀⠀✦⠀⠀⠀⠀⠀⠀⠀★⠀⠀⠀⠀⠀★⠀⠀⠀⠀⠀✧⠀⠀⠀⠀★⠀⠀⠀✦⠀⠀⠀⠀⠀⠀✧         ⠀⠀⠀⠀⠀⠀★⠀⠀⠀⠀⠀★⠀⠀⠀⠀⠀✧⠀⠀⠀⠀★⠀⠀⠀✦⠀⠀⠀⠀⠀⠀✧⠀⠀⠀✦⠀★⠀
-```
-
-<!-- ================= HEADER ================= -->
-
-<h1 align="center">Akshatha Dungi</h1>
-<h3 align="center">Software Engineer | AI/ML Systems Engineer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Reliable+AI+Systems;From+Research+to+Production;Scalable+Backend+%7C+ML+%7C+DSA&center=true&width=520&height=40">
-</p>
-
-<p align="center">
-  <a href="#projects">Projects</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#systems">Systems</a> •
-  <a href="#contact">Contact</a>
-</p>
-
----
-
-<p align="center">
-  <img src="./assets/download.gif" width="100%" />
-</p>
+Building scalable systems and exploring the intersection of AI infrastructure and backend engineering.
 
 ---
 
 ## About
 
-- Computer Science @ Andhra University (CGPA: 9.07)
-- Academic Excellence Award Recipient
-- Experience- Research Intern @ ISI Kolkata  
-
-
-> Focus: building systems that are **correct, scalable, and reliable under real-world conditions**
+- **B.Tech in Computer Science** from Andhra University, Visakhapatnam (CGPA: 9.07, Academic Excellence Award)
+- Focused on backend systems, AI/ML infrastructure, and developer tools
+- Currently exploring agentic AI, LLMs, and real-time system design
+- Interested in internships and new graduate roles at infrastructure-focused companies
 
 ---
 
-<a name="systems"></a>
+## Technical Interests
 
-## Systems Perspective
-
-- Status        : Learning
-- Current Task  : Building AI systems
-- Runtime       : Coffee dependent
-- Failure Mode  : Overengineering side projects
+**Backend Engineering** · **AI/ML Systems** · **System Design** · **Developer Infrastructure** · **Real-time Computing**
 
 ---
-
-<a name="tech-stack"></a>
 
 ## Tech Stack
 
-### Core
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,sql" />
-</p>
+### Languages
+![Python](https://skillicons.dev/icons?i=python)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![SQL](https://skillicons.dev/icons?i=mysql)
 
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
-</p>
+### Backend & APIs
+- **Frameworks**: FastAPI, Express.js
+- **Patterns**: REST APIs, Server-Sent Events (SSE), JWT Authentication
+- **Security**: Web Security best practices
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,spring" />
-</p>
+### Databases
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
+### AI/ML & Data
+- **Libraries**: Scikit-Learn, Pandas, NumPy, FAISS
+- **Techniques**: Embeddings, Retrieval-Augmented Generation (RAG), Vector similarity search
 
-### DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,azure,git" />
-</p>
-
----
-
-<a name="projects"></a>
-
-## Selected Projects
-
-### AI Confidence Calibration System
-
-- Evaluated **5 neural architectures** on financial time-series  
-- Built unified pipeline handling **160K+ records**  
-- Achieved **3.34% Expected Calibration Error (ECE)**  
-- Identified **predictable failure dynamics in RNN vs LSTM**
-
-**Impact**
-- Moves beyond accuracy → ensures **trustworthy AI predictions**
-- Bridges research insights with deployable systems
+### Infrastructure & Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Railway](https://skillicons.dev/icons?i=railway)
 
 ---
 
----
+## Highlighted Work
 
-## GitHub Analytics
+**Real-time Data Processing System**
+- Built SSE-based streaming pipelines for low-latency data delivery
+- Implemented connection pooling and backpressure handling for reliability
+- Tech: FastAPI, PostgreSQL, Redis
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshatha-22&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshatha-22&theme=tokyonight&hide_border=true" height="165">
-</p>
+**RAG-powered Search Application**
+- Engineered semantic search using embeddings and vector databases
+- Integrated LLM-based answer generation with source attribution
+- Tech: Python, FAISS, FastAPI, LangChain
 
----
-
-<a name="contact"></a>
-
-## Contact
-
-<p align="center">
-  <a href="mailto:akshathadungi04@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/akshathadungi2212">LinkedIn</a> •
-  <a href="https://github.com/Akshatha-22">GitHub</a>
-</p>
+**Microservices Architecture**
+- Designed and deployed containerized services with Docker
+- Implemented JWT-based authentication and authorization
+- Tech: Express.js, PostgreSQL, Docker, Railway
 
 ---
 
-## Philosophy
+## Currently Learning
 
-Reliability > Accuracy  
-Systems > Models  
-Execution > Ideas
+- **Agentic AI**: Building AI systems that operate autonomously with reasoning
+- **LLM Infrastructure**: Model Context Protocol (MCP), LangGraph, prompt optimization
+- **Advanced System Design**: Distributed consensus, load balancing, fault tolerance
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatha-22&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+---
+
+## Let's Connect
+
+- **Portfolio**: [akshatha-22.github.io/My-Portfolio](https://akshatha-22.github.io/My-Portfolio/)
+- **Email**: [Open a discussion or issue](https://github.com/akshatha-22)
+
+*Interested in discussing system design, AI infrastructure, or backend challenges.*
