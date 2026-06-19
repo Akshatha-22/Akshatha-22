@@ -1,87 +1,35 @@
 # [Akshatha Dungi](https://akshatha-22.github.io/My-Portfolio/)
 
-Building scalable systems and exploring the intersection of AI infrastructure and backend engineering.
+Building backend systems, AI-powered applications and  turning "it works on my machine" into "it works everywhere."
 
 ---
 
 ## About
 
-- **B.Tech in Computer Science** from Andhra University, Visakhapatnam (CGPA: 9.07, Academic Excellence Award)
-- Focused on backend systems, AI/ML infrastructure, and developer tools
-- Currently exploring agentic AI, LLMs, and real-time system design
-- Interested in internships and new graduate roles at infrastructure-focused companies
+- **B.Tech in Computer Science** from Andhra University, Visakhapatnam (CGPA: 9.07, Academic Excellence Award, Recipient.)
+- Currently exploring agentic AI, LLMs, and real-time system design.
+- Built RAG-based AI applications using FastAPI, PostgreSQL, and vector search
+- Research experience in AI model calibration and uncertainty estimation.
 
----
-
-## Technical Interests
-
-**Backend Engineering** · **AI/ML Systems** · **System Design** · **Developer Infrastructure** · **Real-time Computing**
 
 ---
 
 ## Tech Stack
 
 ### Languages
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![SQL](https://skillicons.dev/icons?i=mysql)
+Python · C++ · SQL · TypeScript
 
-### Backend & APIs
-- **Frameworks**: FastAPI, Express.js
-- **Patterns**: REST APIs, Server-Sent Events (SSE), JWT Authentication
-- **Security**: Web Security best practices
+### Backend
+FastAPI · Express.js
 
 ### Databases
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
+PostgreSQL · MongoDB
 
-### AI/ML & Data
-- **Libraries**: Scikit-Learn, Pandas, NumPy, FAISS
-- **Techniques**: Embeddings, Retrieval-Augmented Generation (RAG), Vector similarity search
+### AI/ML
+Scikit-Learn · Pandas · NumPy · FAISS
 
-### Infrastructure & Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Railway](https://skillicons.dev/icons?i=railway)
-
----
-
-## Highlighted Work
-
-**Real-time Data Processing System**
-- Built SSE-based streaming pipelines for low-latency data delivery
-- Implemented connection pooling and backpressure handling for reliability
-- Tech: FastAPI, PostgreSQL, Redis
-
-**RAG-powered Search Application**
-- Engineered semantic search using embeddings and vector databases
-- Integrated LLM-based answer generation with source attribution
-- Tech: Python, FAISS, FastAPI, LangChain
-
-**Microservices Architecture**
-- Designed and deployed containerized services with Docker
-- Implemented JWT-based authentication and authorization
-- Tech: Express.js, PostgreSQL, Docker, Railway
-
----
-
-## Currently Learning
-
-- **Agentic AI**: Building AI systems that operate autonomously with reasoning
-- **LLM Infrastructure**: Model Context Protocol (MCP), LangGraph, prompt optimization
-- **Advanced System Design**: Distributed consensus, load balancing, fault tolerance
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatha-22&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
+### Tools
+Git · Docker
 ---
 
 ## Let's Connect
