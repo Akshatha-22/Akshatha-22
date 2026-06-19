@@ -10,8 +10,7 @@ Building backend systems, AI-powered applications and  turning "it works on my m
 - Currently exploring agentic AI, LLMs, and real-time system design.
 - Built RAG-based AI applications using FastAPI, PostgreSQL, and vector search
 - Research experience in AI model calibration and uncertainty estimation.
-
-
+  
 ---
 
 ## Tech Stack
@@ -30,6 +29,7 @@ Scikit-Learn · Pandas · NumPy · FAISS
 
 ### Tools
 Git · Docker
+
 ---
 
 ## Let's Connect
