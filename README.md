@@ -1,4 +1,4 @@
-# [Akshatha Dungi](https://akshatha-22.github.io/My-Portfolio/)
+### Hi, I'm [Akshatha Dungi](https://akshatha-22.github.io/My-Portfolio/)
 
 Building backend systems, AI-powered applications and  turning "it works on my machine" into "it works everywhere."
 
